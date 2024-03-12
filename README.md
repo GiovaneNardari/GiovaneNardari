@@ -1,4 +1,4 @@
 - Hello, I'm @GiovaneNardari.
 - I'm an undergraduate in 'Data Science and Artificial Intelligence' at PUC-Campinas (Pontifícia Universidade Católica de Campinas)
 - From early on I had discovered my passion for programming, even though, by that time, I did not try to learn many things by myself... However, I've finally started my graduation and now I'm aching to learn everything possible about programming and data science.
-- I will be trying to keep this profile filled with good examples of all the things that have aroused interest in me from this programming environment.
+- I will be trying to keep this profile filled with good examples of all the things that have aroused interest in me from this learning journey.
